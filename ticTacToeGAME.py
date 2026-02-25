@@ -96,6 +96,7 @@ class ttt:
 # [ A , B , C ]
 # [ D , E , F ]
 # [ G , H , I]
-p1 = player("Jetu", "O")
-p2 = player("Turja", "X")
+p1 = player("Tom", "O")
+p2 = player("Jerry", "X")
+
 g1 = ttt(p1, p2)

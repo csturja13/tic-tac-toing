@@ -96,7 +96,10 @@ class ttt:
 # [ A , B , C ]
 # [ D , E , F ]
 # [ G , H , I]
+
+#assign players and symbols
 p1 = player("Tom", "O")
 p2 = player("Jerry", "X")
 
+#new game
 g1 = ttt(p1, p2)
